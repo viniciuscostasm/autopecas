@@ -1,0 +1,224 @@
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+c:\users\vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmPrincipal.resources
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProdutos.resources
+C:\Users\Vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\Users\Vinicius\documents\visual studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProdutos.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmPrincipal.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+C:\Users\NT\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\Users\Vinicius\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProduto.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmPrincipal.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro1.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro2.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRecuperarSenha.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRegistroUsuariosDetalhes.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendas.resources
+C:\Users\Camila\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.mdiPrincipal.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProduto.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoque.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueInfo.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRegistro.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRelatorio.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro1.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro2.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRecuperarSenha.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRegistroUsuariosDetalhes.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRelatorioVendas.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoriaRegistro.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendas.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.mdiPrincipal.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\POS_DB.mdf
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\POS_DB_log.ldf
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmFaturaRelatorio.resources
+C:\Users\AnalistaTeste\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro1.resources
+C:\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+C:\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+C:\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProduto.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoque.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueInfo.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRegistro.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRelatorio.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmFaturaRelatorio.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro1.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro2.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRecuperarSenha.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRegistroUsuariosDetalhes.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRelatorioVendas.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoriaRegistro.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendas.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro1.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.mdiPrincipal.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+C:\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProduto.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoque.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueInfo.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRelatorio.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmFaturaRelatorio.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro1.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro2.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRecuperarSenha.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRegistroUsuariosDetalhes.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRelatorioVendas.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoriaRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendas.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro1.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.mdiPrincipal.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+C:\Users\bella\Documents\Visual Studio 2013\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.exe
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\SystemPecAuto.pdb
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\FlashControlV71.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\bin\Debug\stdole.dll
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csprojResolveAssemblyReference.cache
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadProduto.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCadUsuario.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoria.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmCategoriaRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoque.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueInfo.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmEstoqueRelatorio.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmFaturaRelatorio.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLogin.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmLoginDetalhes.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmMudancaSenha.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro1.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmProdutosRegistro2.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRecuperarSenha.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRegistroUsuariosDetalhes.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmRelatorioVendas.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoria.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSubCategoriaRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendas.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmVendasRegistro1.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.mdiPrincipal.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.frmSobre.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Splash.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.Properties.Resources.resources
+C:\Users\bella\Documents\Visual Studio 2015\Projects\SlnSystemPecAuto\SystemPecAuto\obj\Debug\SystemPecAuto.csproj.GenerateResource.Cache
+C:\Users\bella\Source\Repos\autopecas\SystemPecAuto\bin\Debug\SystemPecAuto.exe.config
+C:\Users\bella\Source\Repos\autopecas\SystemPecAuto\obj\Debug\SystemPecAuto.exe
+C:\Users\bella\Source\Repos\autopecas\SystemPecAuto\obj\Debug\SystemPecAuto.pdb
